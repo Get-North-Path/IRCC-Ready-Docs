@@ -24,7 +24,7 @@ Landing page on [docs.getnorthpath.com](https://docs.getnorthpath.com/):
 2. Jump to Tools, Templates, Guides, IMM Forms, Checklists, or Countries
 3. Open a live tool that runs in your browser
 4. Read the FAQ (files stay on device, not affiliated with IRCC, 4 MB limit)
-5. Optionally explore the Get North Path family or book a free consult
+5. Optionally explore other free GetNorthPath DIY tools or book a walkthrough
 
 ---
 

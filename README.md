@@ -59,7 +59,7 @@ Tools run **in your browser**. Application files are not uploaded to a GetNorthP
 2. Pick the stuck step       →  Too big, won't merge, wrong photo
 3. Run the tool in-browser   →  File stays on your device
 4. Read the matching guide   →  Why the portal rejected it
-5. Optional next step        →  Form, checklist, template, or a free consult
+5. Optional next step        →  Form, checklist, template, or another free DIY tool
 ```
 
 ---

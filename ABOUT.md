@@ -1,14 +1,14 @@
 # What is GetNorthPath?
 
-[GetNorthPath](https://www.getnorthpath.com) is a Canadian immigration platform: **AI assisted application tools** plus **consultant review**, built for immigrants by immigrants.
+[GetNorthPath](https://www.getnorthpath.com) is a Canadian immigration platform: **AI-powered features and free DIY tools**, built for immigrants by immigrants. The company line is **AI for All** — immigration should be accessible to everyone, not only people who can pay thousands for help.
 
-**IRCC Ready Docs** is one of GetNorthPath’s **free public tools**. The parent product is a paid application workspace (flat **$299 CAD**) that helps people prepare IRCC filings with document checks, form auto fill, and an experienced consultant on the file.
+**IRCC Ready Docs** is one of GetNorthPath’s **free public tools**. The parent product is an AI Powered Immigration Ecosystem with platform features (document checks, form auto fill, dashboards) plus a growing set of free DIY tools you can use yourself.
 
 ---
 
 ## Why GetNorthPath exists
 
-Too many applicants pay thousands for “complete handling” and still get document feedback in the last weeks of a deadline. GetNorthPath’s thesis is the opposite: **catch issues early**, keep the applicant in control, and make consultant time count.
+Too many applicants pay thousands for “complete handling” and still get document feedback in the last weeks of a deadline. GetNorthPath’s thesis is the opposite: **catch issues early**, keep the applicant in control, and put free tools in everyone’s hands.
 
 The founder is a Canadian PR recipient in Toronto. The company line is simple: **the path north should be clear for everyone.**
 
@@ -29,14 +29,16 @@ GetNorthPath covers **13+ application types**, inside and outside Canada, includ
 
 Typical platform pieces:
 
-1. **Free 30 minute consultation** (no credit card)
+1. **Free DIY tools** (calculators, docs toolkit, trackers — no signup)
 2. **Secure portal** for documents and checklists
 3. **AI document validation** against the profile
 4. **IRCC form auto fill** from verified data
-5. **Consultant review** before anything is treated as ready
-6. **Chrome extension** to push an approved package into the IRCC portal
+5. **Self-serve file checks** before you submit
+6. **Chrome extension** to push a prepared package into the IRCC portal
+7. **Optional free walkthrough** if you want help using a tool
+8. **Waitlist** for the full AI Powered Immigration Ecosystem
 
-Government filing fees are paid to IRCC / Ontario, not included in the $299 platform fee.
+Government filing fees are paid to IRCC / Ontario, not to GetNorthPath.
 
 ---
 
@@ -44,12 +46,12 @@ Government filing fees are paid to IRCC / Ontario, not included in the $299 plat
 
 | | GetNorthPath (parent) | IRCC Ready Docs (this product) |
 | --- | --- | --- |
-| **Job** | Prepare and review full immigration applications | Get files ready for IRCC upload (compress, merge, flatten, check) |
-| **Cost** | $299 CAD platform (consult is free) | Free, no signup to use the tools |
+| **Job** | Features and free DIY tools for Canadian immigration | Get files ready for IRCC upload (compress, merge, flatten, check) |
+| **Cost** | Free tools; join the waitlist for the full ecosystem | Free, no signup to use the tools |
 | **URL** | [getnorthpath.com](https://www.getnorthpath.com) | [docs.getnorthpath.com](https://docs.getnorthpath.com) |
 | **This repo** | Company context | Public product docs |
 
-The toolkit can send people who want help to a **free consult** on GetNorthPath. Using IRCC Ready Docs does **not** create a paid file.
+The toolkit can send people who want help to a **free walkthrough** or other free tools on GetNorthPath. Using IRCC Ready Docs does **not** create a paid file. GetNorthPath does **not** review or sign off applications.
 
 Sister public tools from the same org:
 
@@ -61,7 +63,7 @@ Sister public tools from the same org:
 
 ## Licensing and regulation
 
-Consultants on the GetNorthPath platform are expected to be verifiable. Authorized Canadian immigration consultants are **RCICs** registered with the [College of Immigration and Citizenship Consultants (CICC)](https://college-ic.ca).
+GetNorthPath provides **software and free DIY tools**, not RCIC representation. If you hire an authorized Canadian immigration consultant independently, they should be an **RCIC** registered with the [College of Immigration and Citizenship Consultants (CICC)](https://college-ic.ca).
 
 GetNorthPath is **not** IRCC, **not** the Government of Canada, and **not** a substitute for reading official instructions on [canada.ca](https://www.canada.ca/en/services/immigration-citizenship.html).
 
@@ -70,7 +72,8 @@ GetNorthPath is **not** IRCC, **not** the Government of Canada, and **not** a su
 ## Contact
 
 - 🌐 [getnorthpath.com](https://www.getnorthpath.com)
-- 📞 [Contact / book](https://www.getnorthpath.com/contact#book)
+- 🛠️ [Free DIY tools](https://www.getnorthpath.com/tools)
+- 📞 [Contact / walkthrough](https://www.getnorthpath.com/contact)
 - 💼 [LinkedIn](https://www.linkedin.com/company/getnorthpath/)
 - 📸 [Instagram](https://www.instagram.com/get.northpath/)
 - ▶️ [YouTube](https://www.youtube.com/@GetNorthPath)

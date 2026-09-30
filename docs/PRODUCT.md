@@ -4,7 +4,7 @@
 
 Live: [docs.getnorthpath.com](https://docs.getnorthpath.com)
 
-It is a **mini SaaS**: a focused product with working tools, long-form guides, IMM form pages, program checklists, templates, and country tips, plus an optional path into a GetNorthPath consultation. It is **not** a full immigration case management system. That lives on [getnorthpath.com](https://www.getnorthpath.com). See [ABOUT.md](../ABOUT.md).
+It is a **mini SaaS**: a focused product with working tools, long-form guides, IMM form pages, program checklists, templates, and country tips, plus links to other free GetNorthPath DIY tools. It is **not** a full immigration case management system. Broader platform features live on [getnorthpath.com](https://www.getnorthpath.com). See [ABOUT.md](../ABOUT.md).
 
 ---
 
@@ -33,7 +33,7 @@ docs.getnorthpath.com
 ├── Checklists      program document lists with size targets
 ├── Templates       free practice templates with tool CTAs
 ├── Countries       tips by source country (/from/…)
-└── Consult CTA     optional free GetNorthPath call
+└── Next steps      other free DIY tools / optional walkthrough
 ```
 
 Details: [FEATURES.md](FEATURES.md) · [WORKFLOW.md](WORKFLOW.md) · [RULES.md](RULES.md)
@@ -44,7 +44,7 @@ Details: [FEATURES.md](FEATURES.md) · [WORKFLOW.md](WORKFLOW.md) · [RULES.md](
 
 - A **document toolkit** aimed at IRCC upload rules (size, format, flatten, photo)
 - A **content site** (guides, form hubs, checklists, templates, country notes)
-- A **lead in** to GetNorthPath if you want a human consult
+- A **gateway** to other free GetNorthPath DIY tools and an optional walkthrough
 - Available in **2 languages** (English default; French at `/fr/…`)
 - Free to use; tools run **in your browser** so application files are not uploaded to a GetNorthPath server for compress, merge, flatten, or check
 
@@ -54,7 +54,7 @@ Details: [FEATURES.md](FEATURES.md) · [WORKFLOW.md](WORKFLOW.md) · [RULES.md](
 - Not a guarantee that IRCC will accept a file
 - Not legal advice or a substitute for reading the form instructions you are filing
 - Not a full desktop PDF editor for every office workflow
-- Not the same as GetNorthPath’s paid application workspace
+- Not a substitute for GetNorthPath’s wider platform features and other free DIY tools
 - Not the [OINP Calculator](https://oinp.getnorthpath.com) (Ontario points) or [AORTrack](https://track.getnorthpath.com) (PR timelines)
 
 ---
@@ -66,7 +66,7 @@ Details: [FEATURES.md](FEATURES.md) · [WORKFLOW.md](WORKFLOW.md) · [RULES.md](
 3. Run the matching tool in the browser
 4. Optionally read the linked guide, form page, or checklist
 5. Optionally check the file with the IRCC File Checker
-6. Optionally book a free GetNorthPath consult
+6. Optionally open another free GetNorthPath tool or book a free walkthrough
 
 No account is required to use the tools. Some downloads may ask for an email to unlock; that collects contact details only, not your document file. See GetNorthPath [Privacy](https://www.getnorthpath.com/privacy) and [Terms](https://www.getnorthpath.com/terms).
 
@@ -86,7 +86,7 @@ If this app and canada.ca disagree, **canada.ca wins**.
 
 ## Privacy and leads
 
-Document processing for the tools runs in the browser session. Optional email unlock or consult forms may collect contact details so GetNorthPath can follow up. Those submissions are covered by GetNorthPath [Privacy](https://www.getnorthpath.com/privacy) and [Terms](https://www.getnorthpath.com/terms). Application files used in the tools are not uploaded to a GetNorthPath server for compress, merge, flatten, or check.
+Document processing for the tools runs in the browser session. Optional email unlock or walkthrough forms may collect contact details so GetNorthPath can follow up. Those submissions are covered by GetNorthPath [Privacy](https://www.getnorthpath.com/privacy) and [Terms](https://www.getnorthpath.com/terms). Application files used in the tools are not uploaded to a GetNorthPath server for compress, merge, flatten, or check.
 
 ---
 
@@ -95,7 +95,7 @@ Document processing for the tools runs in the browser session. Optional email un
 | Product | Job |
 | --- | --- |
 | **IRCC Ready Docs** (this) | Free document tools and IRCC upload guides |
-| **GetNorthPath platform** | End to end application workspace ($299 CAD) |
+| **GetNorthPath** | Features and free DIY tools for Canadian immigration |
 | **OINP Calculator** | Ontario PNP points and education |
 | **AORTrack** | Community PR milestone timelines |
 | **CRS calculator** | Federal Express Entry ranking |
